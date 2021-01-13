@@ -1,16 +1,16 @@
 ### Hi, I'm Elián 👋
 
 ## I am a Self-Taught Software Developer Student :computer: :books:
-- :pushpin: Today, I am a **42 Silicon Valley** student since February 2020.
-- 🔭 I’m currently working on 42 project **"cub3D"**
-- 🌱 I’m currently learning about **raycasting** and **algorithm efficiency**.
+- :pushpin: Today, I am a **42 Silicon Valley** student and **freelancer** in Puerto Rico.
+- 🔭 I’m currently working on **Harvard's CS50 Course**
+- 🌱 I’m currently learning about **Python** and **Web Development**
 - ⚡ Fun fact: I like to create music! [LIKE THIS] :musical_keyboard: :guitar: :headphones:
 
 ### Connect with me:
 [<img align="left" alt="elianrc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="elianrc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="elianrc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-or my email: relian41@yahoo.com
+or my email: elian_rc@yahoo.com
 <br />
 
 ### Languages and Tools:
@@ -34,4 +34,4 @@ or my email: relian41@yahoo.com
 [linkedin]: https://linkedin.com/in/elianrc
 [twitter]: https://twitter.com/elianrc_
 [instagram]: https://www.instagram.com/elian__rc/
-[Email]: relian41@yahoo.com
+[Email]: elian_rc@yahoo.com
