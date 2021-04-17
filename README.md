@@ -2,8 +2,7 @@
 
 ## I am a Self-Taught Software Developer Student :computer: :books:
 - :pushpin: Today, I am a **42 Silicon Valley** student and **freelancer** in Puerto Rico.
-- 🔭 I’m currently working on **Harvard's CS50 Course**
-- 🌱 I’m currently learning about **Python** and **Web Development**
+- 🌱 I’m currently learning **Python** and **Web Development**
 - ⚡ Fun fact: I like to create music! [LIKE THIS] :musical_keyboard: :guitar: :headphones:
 
 ### Connect with me:
