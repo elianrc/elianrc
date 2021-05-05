@@ -1,8 +1,8 @@
 ### Hi, I'm Elián 👋
 
-## I am a Self-Taught Software Developer Student :computer: :books:
+## I am a Self-Taught Software Engineering Student :computer: :books:
 - :pushpin: Today, I am a **42 Silicon Valley** student and **freelancer** in Puerto Rico.
-- 🌱 I’m currently learning **Python** and **Web Development**
+- 🌱 I’m currently learning **Web Development** with aims to become a full-stack software engineer.
 - ⚡ Fun fact: I like to create music! [LIKE THIS] :musical_keyboard: :guitar: :headphones:
 
 ### Connect with me:
