@@ -3,7 +3,7 @@
 ## I am a Web Developer and Life-long Learner:computer: :books:
 - :pushpin: Today, I am a **Web Designer** at **Cross-Cultural Missions** and **freelancer** in Puerto Rico.
 - 🌱 I’m currently learning **Web Development** with aims of becoming a full-stack software engineer.
-- ⚡ Fun fact: I like to create music! [LIKE THIS] :musical_keyboard: :guitar: :headphones:
+- ⚡ Fun fact: I like to create music! [LIKE THIS](https://youtu.be/U_IT0k0unrs) :musical_keyboard: :guitar: :headphones:
 
 ### Languages and Tools:
 
@@ -19,7 +19,8 @@
 <br>
 
 ### Connect with me:
-- LinkedIn -  https://linkedin.com/in/elianrc
+- [LinkedIn](https://linkedin.com/in/elianrc)
+- [Twitter](https://twitter.com/elianrc_)
 - or my email: elian_rc@yahoo.com
 
 
