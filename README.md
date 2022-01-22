@@ -1,8 +1,8 @@
-### Hi, I'm Elián 👋
+### Hi, I'm [Elián](https://elianrc.com) 👋
 
 ## I am a Web Developer and Life-long Learner:computer: :books:
-- :pushpin: Today, I am a **Web Designer** at **Cyber Communications** and **freelancer** in Puerto Rico.
-- 🌱 I’m currently learning **Web Development** with aims of becoming a full-stack software engineer.
+- :pushpin: Today, I am a **Web Designer** at **Cyber Communications**.
+- 🌱 I’m currently studying for **CompTIA A+**.
 - ⚡ Fun fact: I like to create music! [LIKE THIS](https://youtu.be/U_IT0k0unrs) :musical_keyboard: :guitar: :headphones:
 
 ### Languages and Tools:
