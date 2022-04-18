@@ -1,7 +1,7 @@
 ### Hi, I'm [Elián](https://elianrc.com) 👋
 
 ## I am a Web Developer and Life-long Learner:computer: :books:
-- :pushpin: Today, I am a **Web Designer** at **Cyber Communications**.
+- :pushpin: Today, I am a **Web Designer** at **One Health Direct**.
 - 🌱 I’m currently studying for **CompTIA A+**.
 - ⚡ Fun fact: I like to create music! [LIKE THIS](https://youtu.be/U_IT0k0unrs) :musical_keyboard: :guitar: :headphones:
 
