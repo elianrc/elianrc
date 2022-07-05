@@ -21,7 +21,7 @@
 ### Connect with me:
 - [LinkedIn](https://linkedin.com/in/elianrc)
 - [Twitter](https://twitter.com/elianrc_)
-- or my email: contact@elianrc.com
+- contact@elianrc.com
 
 
 <!--
