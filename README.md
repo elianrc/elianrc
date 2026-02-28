@@ -1,7 +1,7 @@
 ### Hi, I'm [Elián](https://elianrc.com) 👋
 
 ## I am a Web Developer and Life-long Learner:computer: :books:
-- :pushpin: Today, I am a **FrontEnd Engineer** at **WorkSimpli**.
+- :pushpin: Today, I am a **Front-End Engineer** at **WorkSimpli**.
 - ⚡ Fun fact: I like to create music! [LIKE THIS](https://youtu.be/U_IT0k0unrs) :musical_keyboard: :guitar: :headphones:
 
 ### Languages and Tools:
