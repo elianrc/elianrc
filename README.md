@@ -19,8 +19,8 @@
 
 ### Connect with me:
 - [LinkedIn](https://linkedin.com/in/elianrc)
-- [Twitter](https://twitter.com/elianrc_)
-- contact@elianrc.com
+- [Website](https://elianrc.com)
+- [Contact Me](mailto:contact@elianrc.com)
 
 
 <!--
